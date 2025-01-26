@@ -56,7 +56,7 @@ password-generator/
 ├── package-lock.json      # Controle de versão das dependências
 ├── README.md              # Este arquivo
 └── .gitignore             # Arquivos ignorados pelo Git
-
+```
 
 ### Próximos Passos
 Implementar suporte para salvar configurações de senha.
