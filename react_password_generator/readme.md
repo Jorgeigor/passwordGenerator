@@ -1,6 +1,6 @@
 # Password Generator
 - Este é um gerador de senhas interativo desenvolvido com React no front-end e Node.js no back-end. Ele permite criar senhas fortes e personalizadas, com várias opções para atender às suas necessidades.
-
+<img src="passwordGenerator\react_password_generator\public\imgWebsite.jpeg">
 ## Demonstração
 
 ### Recursos
