@@ -20,8 +20,8 @@
 - npm ou yarn
 ### Como Executar Localmente
 #### Clone o repositório:
-- git clone https://github.com/seu-usuario/password-generator.git
-- cd password-generator
+- git clone https://github.com/jorge-igor/password-generator.git
+- cd password-generator.
 
 ### Instale as dependências:
 - npm install
