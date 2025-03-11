@@ -119,7 +119,7 @@ const App = () => {
             <input checked={includeSymbols} onChange={(e) => setIncludeSymbols(e.target.checked)} type="checkbox" id="include-symbols" name="include-symbols" />
           </div>
           <button onClick={handleGeneratePassword} className="generator__btn">
-            Generate Password
+            Generate Password_
           </button>
           <ToastContainer
             position="top-center"
